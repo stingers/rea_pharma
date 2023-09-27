@@ -1,0 +1,49 @@
+.custom-title-wrap {
+  margin-top: 10px;
+  margin-left: -1.25rem;
+  padding-left: 1.25rem;
+  border-left: 2px solid #e5e8eb;
+}
+.custom-title-wrap .custom-title {
+  color: #2f3c4b;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+}
+.custom-title-wrap .custom-post-title {
+  color: #949494;
+  font-size: 12px;
+}
+
+.bar-primary {
+  border-color: #7a86ff;
+}
+
+.bar-info {
+  border-color: #93c958;
+}
+
+.bar-success {
+  border-color: #3dba6f;
+}
+
+.bar-warning {
+  border-color: #fab63f;
+}
+
+.bar-danger {
+  border-color: #fe413b;
+}
+
+.border-bar-danger {
+  border-left-color: #fe413b !important;
+  z-index: 1000;
+}
+
+.bar-turquoise {
+  border-color: #31c3b2;
+}
+
+.bar-pink {
+  border-color: #ec0080;
+}
